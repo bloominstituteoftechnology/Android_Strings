@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Palindrome Checker</string>
+    <string name="result_preview_default">Result</string>
+    <string name="palindrome_submit_button">Check Palindrome</string>
+    <string name="success_response">is a palindrome!</string>
+    <string name="fail_response">is not a palindrome!</string>
+</resources>
