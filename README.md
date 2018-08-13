@@ -29,7 +29,9 @@ This project will help you practice the skills and concepts you learned related 
 2. In the MainActivity.java file, create a function called `isPalindrome()`. It should take a single string as an argument, and return a `Boolean`.
 3. Write the `isPalindrome()` function. It should return true if the passed in string is a palindrome, false otherwise.
 
-> Hint: You can access the end of a string using `myString.length - 1` as the index for the `charAt()` method. This may help you implement `isPalindrome()`.
+> To check for a palindrome, you'll want to step through a string and look at each of hte characters in it using the `charAt()` method.  
+> In your for loop, use your loop counter as an index for stepping forward through your string and an offsett for stepping backwards.  
+> if the character you are looking at going forward is at index `i` then the character you look at going backward is `myString.length - 1 - i`  
 
 ### Build, Run, and Test Your App
 
