@@ -4,6 +4,9 @@ This project will help you practice the skills and concepts you learned related 
 
 > A palindrome is a word or phrase that is the same whether spelled forward or backwards, for example `madam`, `racecar`, or `was it a rat i saw`.
 
+### Survey
+After completing this project, please fill out the survey found [here](https://goo.gl/forms/m1ExvM2UZluAVxDp1)
+
 ### Create an Android Studio Project
 
 1. Create a new Android Studio project
